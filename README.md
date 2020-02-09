@@ -1,6 +1,3 @@
-
-
-
 # Clicky Game 
 
 
@@ -11,7 +8,7 @@
 
 To view the app go to:
 
-https://enigmatic-plains-06220.herokuapp.com/
+https://zekeriyaotumlu.github.io/Modulatio
 
 https://github.com/ZekeriyaOtumlu/Modulatio
 
