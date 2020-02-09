@@ -1,0 +1,55 @@
+/* header {
+  background-color: lightsteelblue;
+  height: 100px;
+  color: darkblue;
+  margin-bottom:
+}
+
+.App-title {
+  font-size: 2em;
+  padding-left: 6%;
+  margin-top: 0%;
+  padding-top: 2%;
+}
+
+.App-intro {
+  font-size: large;
+  color:blue;
+}
+
+.click-image {
+  font-weight: bold;
+  font-size: 1.7em;
+  color: darkmagenta;
+  padding-left: 20%;
+  margin-top: -4%;
+  padding-left: 36%;
+}
+
+.clicky-game{
+  font-weight: bold;
+  font-size: 1.7em;
+  color: darkmagenta;
+  padding-left: 20%;
+  margin-top: -4%; 
+  padding-left: 36%;
+
+} */
+
+.App-header {
+  background-color: slategray;
+  height: 80px;
+  padding: 10px;
+  color: white;
+}
+
+.App-title {
+  font-size: 2em;
+}
+
+.App-intro {
+    font-size: 1.6em;
+    color: royalblue;
+    font-weight: bold;
+    padding-left: 35%;
+}

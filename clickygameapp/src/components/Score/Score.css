@@ -1,0 +1,54 @@
+/* .gameScore {
+    text-align: center;
+    height: 70px;
+    position: relative;
+    line-height: 1em;
+    padding: 0;
+    margin: 0;
+  }
+  div.gameScore {
+  
+  }
+  
+  h3.score {
+    margin-top: -4%;
+    padding: 0;
+    font-weight: 600;
+    padding-left: 50%;
+    font-size: 2em;
+    color: navy;
+  }
+  
+  h3.status{
+    margin: 0;
+    padding: 0;
+    color: red;
+  } */
+
+  .gameScore {
+    text-align: center;
+    height: 70px;
+    position: relative;
+    line-height: 1em;
+    padding: 0;
+    margin: 0;
+  }
+  div.gameScore {
+  
+  }
+  
+  h3.score {
+    /* margin-top: 5px; */
+    font-weight: 600;
+    padding-left: 55%;
+    font-size: 2em;
+    color: yellow;
+    margin-top: -4%;
+  }
+  h3.status{
+    /* margin: 0;
+    padding: 0; */
+    color: red;
+    margin-top: -3%;
+    font-size: 1.3em;
+  }
